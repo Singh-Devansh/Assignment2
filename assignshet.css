@@ -1,0 +1,36 @@
+button.red{
+    background-color: red;
+    font-size: medium;
+    border-radius: 50%;
+    transition-duration: 0.4s;
+    margin-left: 50%;
+}
+button.red:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+table, th, td {
+    border: 1px solid;
+    
+  }
+  .my-para{
+    font-size: 30px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .head{
+    text-align: center;
+  }
+  #pic{
+    height: 70%;
+    width: 70%;
+    object-fit: contain;
+  }
+  .box{
+    display: flex;
+  }
+  .right{
+    margin: auto;
+    margin-left: 200px;
+  }
+
+ 
